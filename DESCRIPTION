@@ -1,0 +1,17 @@
+Package: Anonymising__test
+Type: Package
+Title: Anonymising
+Version: 1.0-0
+Date: 2024-11-24
+Imports: terra
+Description: Test for anonymising packages
+Encoding: UTF-8
+License: GPL (>=3)
+Depends: R (>= 4.0.0)
+BugReports: https://github.com/ElGraouiM/Anonymising__test/issues
+LazyLoad: yes
+Authors@R: c(
+	person("Marwa", "El Graoui", role = c("cre", "aut"),  
+			email = "marwa@gmail.com", comment = c(ORCID = "0000-0000-0000-0000")),
+    person("Robert J.", "Hijmans", role = "aut", comment = c(ORCID = "0000-0003-2392-6140")))
+Maintainer: Marwa El Graoui <marwa@gmail.com>
